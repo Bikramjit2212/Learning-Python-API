@@ -1,0 +1,4 @@
+.env
+database.py
+__pycache__
+
